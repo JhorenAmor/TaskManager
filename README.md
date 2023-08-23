@@ -20,3 +20,6 @@ How to run:
 * Run rails db:migrate
 * Run bundle install
 * Run bundle exec rails s -p 3010
+
+How to use:
+You may check the project wiki https://github.com/JhorenAmor/TaskManager/wiki
