@@ -1,24 +1,22 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+# Task Manager 
 
-* Ruby version
+A rails api web application with crud and a feature that allow to move positions of records
 
-* System dependencies
+### Dependencies
+Ruby version: 3.2.0
 
-* Configuration
+Rails version: 7.0.7
 
-* Database creation
+Bundler version: 2.4.18
 
-* Database initialization
+POSTMAN: Any version, but I suggest the latest.
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+How to run:
+* Clone the project to your machine. You may use ssh git@github.com:JhorenAmor/TaskManager.git
+* Open the project folder TaskManager.
+* Run rails db:create
+* Run rails db:migrate
+* Run bundle install
+* Run bundle exec rails s -p 3010
