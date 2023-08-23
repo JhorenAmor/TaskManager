@@ -13,7 +13,7 @@ Bundler version: 2.4.18
 
 POSTMAN: Any version, but I suggest the latest.
 
-How to run:
+### How to run:
 * Clone the project to your machine. You may use ssh git@github.com:JhorenAmor/TaskManager.git
 * Open the project folder TaskManager.
 * Run rails db:create
@@ -21,6 +21,6 @@ How to run:
 * Run bundle install
 * Run bundle exec rails s -p 3010
 
-How to use:
+### How to use:
 
 You may check the project wiki https://github.com/JhorenAmor/TaskManager/wiki
